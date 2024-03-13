@@ -1,6 +1,6 @@
 {
   "name": "@queirozcavalcantiadvocacia/library-template-docx-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate docx documents from templates, in Node or in the browser.",
   "keywords": [
     "docx",
