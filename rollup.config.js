@@ -11,11 +11,11 @@ export default {
     input: 'src/index.ts',
     output: [
         {
-            file: 'dist/cjs/easy-template-x.js',
+            file: 'dist/cjs/library-template-docx-node.js',
             format: 'cjs'
         },
         {
-            file: 'dist/es/easy-template-x.js',
+            file: 'dist/es/library-template-docx-node.js',
             format: 'es'
         }
     ],

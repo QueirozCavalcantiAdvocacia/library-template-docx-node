@@ -1,6 +1,6 @@
 {
   "name": "@queirozcavalcantiadvocacia/library-template-docx-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate docx documents from templates, in Node or in the browser.",
   "keywords": [
     "docx",
@@ -12,8 +12,8 @@
   ],
   "author": "Fábio Lopes",
   "license": "MIT",
-  "main": "dist/cjs/easy-template-x.js",
-  "module": "dist/es/easy-template-x.js",
+  "main": "dist/cjs/library-template-docx-node.js",
+  "module": "dist/es/library-template-docx-node.js",
   "typings": "dist/types/index.d.ts",
   "files": [
     "dist",
