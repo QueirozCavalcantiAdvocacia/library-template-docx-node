@@ -1,6 +1,6 @@
 {
-  "name": "easy-template-x",
-  "version": "3.2.0",
+  "name": "@queirozcavalcantiadvocacia/library-template-docx-node",
+  "version": "1.0.0",
   "description": "Generate docx documents from templates, in Node or in the browser.",
   "keywords": [
     "docx",
@@ -10,16 +10,8 @@
     "microsoft",
     "ms"
   ],
-  "author": "Alon Bar",
+  "author": "Fábio Lopes",
   "license": "MIT",
-  "homepage": "https://github.com/alonrbar/easy-template-x",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alonrbar/easy-template-x.git"
-  },
-  "bugs": {
-    "url": "https://github.com/alonrbar/easy-template-x/issues"
-  },
   "main": "dist/cjs/easy-template-x.js",
   "module": "dist/es/easy-template-x.js",
   "typings": "dist/types/index.d.ts",
@@ -72,5 +64,17 @@
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-node-resolve": "5.2.0",
     "typescript": "4.7.4"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QueirozCavalcantiAdvocacia/library-template-docx-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QueirozCavalcantiAdvocacia/library-template-docx-node/issues"
+  },
+  "homepage": "https://github.com/QueirozCavalcantiAdvocacia/library-template-docx-node#readme"
 }
